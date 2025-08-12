@@ -1,5 +1,12 @@
 Sure! Here’s a clean, professional README template for your project **"Gemini and Ollama LangExtract Test"**:
 
+# Project Demo
+
+<video width="600" controls>
+  <source src="./demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ---
 
 # Gemini and Ollama LangExtract Test
